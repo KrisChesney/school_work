@@ -1,4 +1,5 @@
-# School work from Western Governors University: Master of Science - Data Analytics
+# School Work 
+## Western Governors University: Master of Science - Data Analytics
 A collection of projects completed for class assignments
 
 ## Data Analytics Fundamentals
